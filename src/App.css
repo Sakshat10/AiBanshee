@@ -1,0 +1,25 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* Target the scrollbar */
+::-webkit-scrollbar {
+  width: 1rem;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: #ff431a; /* Color of the scrollbar handle */
+  border-radius: 1rem;
+  border: 3px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #ffffff;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: #080808;
+}

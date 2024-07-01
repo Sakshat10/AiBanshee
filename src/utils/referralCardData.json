@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Round 1",
+    "price": "$0.005 USD",
+    "totalSupply": "5%",
+    "tge": "60%",
+    "Vesting": "10%/month",
+    "usingPartnerReferralCode": "5% amount bank"
+  },
+  {
+    "title": "Round 2",
+    "price": "$0.0075 USD",
+    "totalSupply": "7%",
+    "tge": "70%",
+    "Vesting": "10%/month",
+    "usingPartnerReferralCode": "5% amount bank"
+  },
+  {
+    "title": "Round 3",
+    "price": "$0.0090 USD",
+    "totalSupply": "8%",
+    "tge": "80%",
+    "Vesting": "10%/month",
+    "usingPartnerReferralCode": "5% amount back"
+  }
+]
